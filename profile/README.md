@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/aXnvTUT.png"/>
+<img src="https://github.com/HUB-NutriFacil/.github/blob/main/profile/assets/nutrifacil_banner.png" alt="banner escrito nutrifácil com 2 montanha sverdes ao fundo"/>
 
 
 # NutriFacil
